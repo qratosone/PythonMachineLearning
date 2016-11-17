@@ -137,3 +137,5 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
+chapter2/.idea/chapter2.iml
+*.xml
